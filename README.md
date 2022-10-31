@@ -7,7 +7,7 @@ In this homework I created A weather dashboard that allows all users to get a ci
 
 Tech
 
-URL - http://127.0.0.1:5500/Index.Html
+URL - https://omar20222222.github.io/Weather-Dashboard/
 
 ## Tools
 
