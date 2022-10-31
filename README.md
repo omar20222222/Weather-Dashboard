@@ -5,4 +5,16 @@ In this homework I created A weather dashboard that allows all users to get a ci
 
 ![](Assets/images/Screenshot%202022-10-31%20180720.png)
 
-URL - 
+Tech
+
+URL - http://127.0.0.1:5500/Index.Html
+
+## Tools
+
+- CSS 
+
+- HTML
+
+- CSS
+- Java
+- Script
